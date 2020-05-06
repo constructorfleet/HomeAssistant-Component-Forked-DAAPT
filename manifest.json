@@ -1,0 +1,11 @@
+{
+  "domain": "forked-daapd",
+  "name": "Forked-daapd",
+  "documentation": "https://github.com/constructorfleet/HomeAssistant-Component-Forked-DAAPT",
+  "requirements": [],
+  "dependencies": [
+  ],
+  "codeowners": [
+    "teagan42"
+  ]
+}

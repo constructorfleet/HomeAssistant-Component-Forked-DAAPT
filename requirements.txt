@@ -1,0 +1,2 @@
+homeassistant==0.107.7
+mpg123==0.4
